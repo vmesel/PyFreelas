@@ -7,7 +7,7 @@ authors = ["Vinicius Mesel <vinicius@pyjobs.com.br>"]
 [tool.poetry.dependencies]
 python = "3.8.5"
 dj-database-url = "*"
-Django = "^3.1.2"
+Django = "^3.2.4"
 django-appconf = "*"
 django-bootstrap3 = "*"
 django-extensions = "*"
